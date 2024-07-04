@@ -1,28 +1,18 @@
 # Titanic-Data-Visualization-with-Power-BI
-I've completed a project analyzing the Titanic dataset using Power BI. Here are some key insights:
+I've explored the Titanic dataset using Power BI, creating insightful visualizations that uncover key patterns in the data:
 
-Gender Distribution:
+Gender Distribution: Analyzed 448 males and 259 females among the passengers.
 
-Male: 448
-Female: 259
-Survival Rate by Gender:
+Survival Rates: Visualized survival rates, showing outcomes for males (360 not survived, 88 survived) and females (64 not survived, 195 survived).
 
-Not Survived: Male 360, Female 64
-Survived: Male 88, Female 195
-Embarkation by Gender:
+Embarkation Points: Explored embarkation points and gender ratios at Southampton, Cherbourg, and Queenstown.
 
-Southampton: Female 186, Male 364
-Cherbourg: Female 59, Male 68
-Queenstown: Female 24, Male 16
-Survival by Family Size:
+Family Size Impact: Investigated how family size (0 to 6 members) affected survival rates.
 
-Analyzed family sizes from 0 to 6
-Survival by Age (15-60):
+Age Analysis: Filtered age data (15-60) to better understand survival patterns.
 
-Filtered outliers for clarity
-Interactive Dashboard:
+Interactive Dashboard: Built an interactive dashboard with filters for passenger class, gender, and survival status for deeper exploration.
 
-Includes total passengers, and slicers for Pclass, Sex, and Survival Status
-Check out my dashboard and share your thoughts!
+Explore my project and feel free to provide feedback or suggestions!
 
-#DataScience #PowerBI #DataViz #Titanic #Analytics
+#DataScience #PowerBI #DataVisualization #Titanic #Analytics
